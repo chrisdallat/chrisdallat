@@ -1,0 +1,5 @@
+- Hi, I’m @chrisdallat
+- I’m interested in studying programming
+- I’m currently learning C language
+- I’m looking to collaborate on my university projects
+- How to reach me ... chr15dallat@hotmail.co.uk
