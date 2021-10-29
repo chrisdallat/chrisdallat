@@ -1,5 +1,3 @@
 - Hi, I’m @chrisdallat
-- 
 - I’m currently learning C language
-- 
 - How to reach me ... chr15dallat@hotmail.co.uk
