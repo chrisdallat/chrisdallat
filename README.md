@@ -1,3 +1,3 @@
 - Hi, I’m @chrisdallat
-- I’m currently learning C language
+- Currently learning C, Javascript, Ruby
 - How to reach me ... chr15dallat@hotmail.co.uk
