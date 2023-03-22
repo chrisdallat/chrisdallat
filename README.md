@@ -1,3 +1,5 @@
 ```
-Currently working on C and C++ learning at ELU. 
+C/C++
+Python 
+Currently studying at ELU
 ```
